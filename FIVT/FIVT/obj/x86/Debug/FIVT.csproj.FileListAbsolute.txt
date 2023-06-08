@@ -1,0 +1,55 @@
+c:\users\eulalia\documents\visual studio 2010\Projects\FIVT\FIVT\bin\Debug\FIVT.exe
+c:\users\eulalia\documents\visual studio 2010\Projects\FIVT\FIVT\bin\Debug\FIVT.pdb
+c:\users\eulalia\documents\visual studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.Properties.Resources.resources
+c:\users\eulalia\documents\visual studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.exe
+c:\users\eulalia\documents\visual studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.pdb
+c:\users\eulalia\documents\visual studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.Frm_Login.resources
+c:\users\eulalia\documents\visual studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.Frm_Menuprincipal.resources
+F:\FIVT\FIVT\obj\x86\Debug\FIVT.exe
+F:\FIVT\FIVT\obj\x86\Debug\FIVT.pdb
+C:\Users\EULALIA\Desktop\FIVT\FIVT\obj\x86\Debug\FIVT.exe
+C:\Users\EULALIA\Desktop\FIVT\FIVT\obj\x86\Debug\FIVT.pdb
+C:\Users\GEIDISON\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.exe
+C:\Users\GEIDISON\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.pdb
+C:\Users\GEIDISON\Documents\Visual Studio 2010\Projects\FIVT\FIVT\bin\Debug\FIVT.exe
+C:\Users\GEIDISON\Documents\Visual Studio 2010\Projects\FIVT\FIVT\bin\Debug\FIVT.pdb
+C:\Users\GEIDISON\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GEIDISON\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.Frm_Login.resources
+C:\Users\GEIDISON\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.Frm_Menuprincipal.resources
+C:\Users\GEIDISON\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.Frm_Cliente.resources
+C:\Users\GEIDISON\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.Frm_Producto.resources
+C:\Users\GEIDISON\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.Properties.Resources.resources
+C:\Users\GEIDISON\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GEIDISON\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GEIDISON\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.Frm_ConsultaProducto.resources
+C:\Users\GEIDISON\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.Frm_NuevaFactura.resources
+C:\Users\EULALIA\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.Frm_Splash.resources
+C:\Users\GEIDISON\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.Frm_Splash.resources
+C:\Users\EULALIA\Documents\Visual Studio 2010\Projects\FIVT\FIVT\bin\Debug\FIVT.exe.config
+C:\Users\EULALIA\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.FrmConsultaCliente.resources
+C:\Users\EULALIA\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.FrmMantenimientoCliente.resources
+C:\Users\GEIDISON\Documents\Visual Studio 2010\Projects\FIVT\FIVT\bin\Debug\FIVT.exe.config
+C:\Users\GEIDISON\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.FrmMantenimientoCliente.resources
+C:\Users\GEIDISON\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.FrmConsultaCliente.resources
+C:\Users\GEIDISON\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.frmUsuariocs.resources
+C:\Users\GEIDISON\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.FrmMantenimientoProductos.resources
+C:\Users\EULALIA\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.FrmMantenimientoProductos.resources
+C:\Users\EULALIA\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.Frm_EntradaDeCliente.resources
+C:\Users\EULALIA\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.Frm_EntradaDeProducto.resources
+C:\Users\EULALIA\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.FrmConsultaProducto.resources
+C:\Users\EULALIA\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.FrmCrearUsuario.resources
+C:\Users\EULALIA\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.FrmReporteGeneralClientes.resources
+C:\Users\EULALIA\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.FrmReporteGeneralProductos.resources
+C:\Users\EULALIA\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.FrmReporteParametrizadoproducto.resources
+C:\Users\EULALIA\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.FrmReporteProductosID.resources
+C:\Users\EULALIA\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.FrmReporteProductosNombre.resources
+C:\Users\EULALIA\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.FrmReporteProductosFecha.resources
+C:\Users\EULALIA\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.FrmReporteClientesID.resources
+C:\Users\EULALIA\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.FrmReporteParametrizadoCliente.resources
+C:\Users\EULALIA\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.FrmReporteClientesCedula.resources
+C:\Users\EULALIA\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.FrmReporteClientesNombre.resources
+C:\Users\EULALIA\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.FrmReporteGeneralVentas.resources
+C:\Users\EULALIA\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.FrmVentas.resources
+C:\Users\EULALIA\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.Prueba.resources
+C:\Users\EULALIA\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.csprojResolveAssemblyReference.cache
+C:\Users\EULALIA\Documents\Visual Studio 2010\Projects\FIVT\FIVT\obj\x86\Debug\FIVT.csproj.GenerateResource.Cache
